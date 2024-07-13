@@ -1,2 +1,2 @@
 # python_cybersecurity
-Creating a Firewall and Network scanner script
+Creating a Firewall and Network scanner scripts to educational purposes. 
